@@ -1,0 +1,12 @@
+/Users/karol/capstone-subhub/Subhub.Contracts/bin/Debug/net8.0/Subhub.Contracts.deps.json
+/Users/karol/capstone-subhub/Subhub.Contracts/bin/Debug/net8.0/Subhub.Contracts.dll
+/Users/karol/capstone-subhub/Subhub.Contracts/bin/Debug/net8.0/Subhub.Contracts.pdb
+/Users/karol/capstone-subhub/Subhub.Contracts/obj/Debug/net8.0/Subhub.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karol/capstone-subhub/Subhub.Contracts/obj/Debug/net8.0/Subhub.Contracts.AssemblyInfoInputs.cache
+/Users/karol/capstone-subhub/Subhub.Contracts/obj/Debug/net8.0/Subhub.Contracts.AssemblyInfo.cs
+/Users/karol/capstone-subhub/Subhub.Contracts/obj/Debug/net8.0/Subhub.Contracts.csproj.CoreCompileInputs.cache
+/Users/karol/capstone-subhub/Subhub.Contracts/obj/Debug/net8.0/Subhub.Contracts.dll
+/Users/karol/capstone-subhub/Subhub.Contracts/obj/Debug/net8.0/refint/Subhub.Contracts.dll
+/Users/karol/capstone-subhub/Subhub.Contracts/obj/Debug/net8.0/Subhub.Contracts.pdb
+/Users/karol/capstone-subhub/Subhub.Contracts/obj/Debug/net8.0/ref/Subhub.Contracts.dll
+/Users/karol/capstone-subhub/Subhub.Contracts/obj/Debug/net8.0/Subhub.Contracts.sourcelink.json

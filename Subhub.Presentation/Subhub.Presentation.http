@@ -1,0 +1,6 @@
+@Subhub.Presentation_HostAddress = http://localhost:5074
+
+GET {{Subhub.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

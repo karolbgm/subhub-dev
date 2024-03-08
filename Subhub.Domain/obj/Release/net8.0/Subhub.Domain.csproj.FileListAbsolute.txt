@@ -1,0 +1,12 @@
+/Users/karol/capstone-subhub/Subhub.Domain/bin/Release/net8.0/Subhub.Domain.deps.json
+/Users/karol/capstone-subhub/Subhub.Domain/bin/Release/net8.0/Subhub.Domain.dll
+/Users/karol/capstone-subhub/Subhub.Domain/bin/Release/net8.0/Subhub.Domain.pdb
+/Users/karol/capstone-subhub/Subhub.Domain/obj/Release/net8.0/Subhub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karol/capstone-subhub/Subhub.Domain/obj/Release/net8.0/Subhub.Domain.AssemblyInfoInputs.cache
+/Users/karol/capstone-subhub/Subhub.Domain/obj/Release/net8.0/Subhub.Domain.AssemblyInfo.cs
+/Users/karol/capstone-subhub/Subhub.Domain/obj/Release/net8.0/Subhub.Domain.csproj.CoreCompileInputs.cache
+/Users/karol/capstone-subhub/Subhub.Domain/obj/Release/net8.0/Subhub.Domain.sourcelink.json
+/Users/karol/capstone-subhub/Subhub.Domain/obj/Release/net8.0/Subhub.Domain.dll
+/Users/karol/capstone-subhub/Subhub.Domain/obj/Release/net8.0/refint/Subhub.Domain.dll
+/Users/karol/capstone-subhub/Subhub.Domain/obj/Release/net8.0/Subhub.Domain.pdb
+/Users/karol/capstone-subhub/Subhub.Domain/obj/Release/net8.0/ref/Subhub.Domain.dll
